@@ -1,0 +1,13 @@
+installation:
+  mode: project-development
+  detected_at: '2026-05-24T14:23:59.176Z'
+repository:
+  url: local-repository
+  auto_detect: true
+framework:
+  source: npm
+  version: 1.0.0
+  location: /home/alan/Documents/Uniplac/IA Generativa/AIOX/aiox-core
+git_ignore_rules:
+  mode: project-development
+  ignore_framework_files: true
