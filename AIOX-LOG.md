@@ -104,4 +104,4 @@
 **URL final:** [(https://aiox-base64.vercel.app/)]
 
 ## Reflexão
-[2-3 frases: o que surpreendeu, o que travou, o que faria diferente]
+[Achei o processo muito difícil, faria com mais facilidade usando só um chatbot e indo aos poucos importando o meu projeto e codificando eu mesmo, ou copiando e colando sugestões de alteração nos arquivos. No entanto, me impressionei com a velocidade que a aplicação esteve pronta (não validei se realmente faz o que eu inicialmente pedi). Tive dificuldade em documentar o AIOX-LOG.md, não sei o que cada etapa pede exatamente.]
